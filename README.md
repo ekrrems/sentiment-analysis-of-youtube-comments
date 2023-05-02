@@ -1,4 +1,6 @@
-# video-comment-sentiment-analysis
+# Sentiment Analysis of Youtube Comments
+
+<img src="https://i.ytimg.com/vi/fzW2qqdDScg/maxresdefault.jpg" alt="alt text" width="750"/>
 This repository contains code for analyzing the sentiment of comments on a YouTube video. The code is written in Python and uses the Tensorflow library.
 
 ## Getting Started
